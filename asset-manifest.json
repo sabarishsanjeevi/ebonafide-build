@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ebonafide/static/css/main.e5cdda46.css",
+    "main.js": "/ebonafide/static/js/main.9389dd52.js",
+    "static/js/787.8a2b4e83.chunk.js": "/ebonafide/static/js/787.8a2b4e83.chunk.js",
+    "static/media/logo.a4b50d03.png": "/ebonafide/static/media/logo.a4b50d03.a4b50d035b2e420a5ffa.png",
+    "static/media/logo.png": "/ebonafide/static/media/logo.a4b50d035b2e420a5ffa.png",
+    "static/media/kr_logo.png": "/ebonafide/static/media/kr_logo.8e43c1f91bf5e5bc75e8.png",
+    "static/media/story-tel.c65ad01c.svg": "/ebonafide/static/media/story-tel.c65ad01c.c65ad01c21fe1892473b393f80a63d0a.svg",
+    "static/media/finger.svg": "/ebonafide/static/media/finger.287c59aad3859079933e41393dfe2bde.svg",
+    "index.html": "/ebonafide/index.html",
+    "main.e5cdda46.css.map": "/ebonafide/static/css/main.e5cdda46.css.map",
+    "main.9389dd52.js.map": "/ebonafide/static/js/main.9389dd52.js.map",
+    "787.8a2b4e83.chunk.js.map": "/ebonafide/static/js/787.8a2b4e83.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5cdda46.css",
+    "static/js/main.9389dd52.js"
+  ]
+}
